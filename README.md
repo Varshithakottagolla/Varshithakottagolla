@@ -20,7 +20,7 @@ Passionate about crafting efficient solutions and staying updated with the lates
 **Hyderabad, India**
 
 ## 📫 Connect With Me
-- **LinkedIn:** [https://www.linkedin.com/in/kottagolla-varshitha/]  
+- **LinkedIn:** [https://www.linkedin.com/in/varshithakottagolla/]  
 - **GitHub:** [https://github.com/Varshithakottagolla](https://github.com/Varshithakottagolla)  
 - **Email:** varshithakottagolla@gmail.com  
 
