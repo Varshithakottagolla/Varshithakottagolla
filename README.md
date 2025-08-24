@@ -22,7 +22,7 @@ Passionate about crafting efficient solutions and staying updated with the lates
 ## 📫 Connect With Me
 - **LinkedIn:** [https://www.linkedin.com/in/kottagolla-varshitha/]  
 - **GitHub:** [https://github.com/Varshithakottagolla](https://github.com/Varshithakottagolla)  
-- **Email:** varshithakottagolla@example.com  
+- **Email:** varshithakottagolla@gmail.com  
 
 ---
 
